@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Nagurkar&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aditya-Nagurkar&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **Aditya-Nagurkar/Aditya-Nagurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
